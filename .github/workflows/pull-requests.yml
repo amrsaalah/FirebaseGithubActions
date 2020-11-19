@@ -1,7 +1,0 @@
-name: Pull Requests CI
-
-on:
-  pull_request:
-    branches:
-      - 'master'
-      - 'release*'
