@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841850348645",
+    "firebase_url": "https://fir-githubactions.firebaseio.com",
+    "project_id": "fir-githubactions",
+    "storage_bucket": "fir-githubactions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841850348645:android:d65aaa1d4fd5a08c15528c",
+        "android_client_info": {
+          "package_name": "com.testfirebasedist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841850348645-hla9blkmv1f4blp9l37flqmjsr9d5586.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlyNX5z3eHSnaJOufpHRmYqmebsaw99k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841850348645-hla9blkmv1f4blp9l37flqmjsr9d5586.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
